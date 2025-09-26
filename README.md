@@ -17,14 +17,14 @@
 ## 🛠️ Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunLSH)](https://github.com/nunLSH/github-readme-stats)
 
-- 🔠 Language
+🔠 Language
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 
-- 🖼️ Framework
+🖼️ Framework
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
@@ -35,21 +35,21 @@
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-007396?style=flat-square&logo=Docker&logoColor=white)
 
-- 🗄️ Database
+🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
 
-- ☁️ Cloud
+☁️ Cloud
 ![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
 
-- 🎨 Design
+🎨 Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
-- 🤝 Collaboration
+🤝 Collaboration
 ![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)
