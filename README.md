@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ## 📞 Contacts
+![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)
 
 
 ## 🖥️ Experience
@@ -14,6 +15,15 @@
 - 정보처리기사 (25.09)
 
 ## 🛠️ Skills
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunLSH)](https://github.com/nunLSH/github-readme-stats)
+
+- 🔠 Language
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+
 - 🖼️ Framework
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
@@ -24,13 +34,6 @@
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-%23f1413d.svg?logo=svelte&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-007396?style=flat-square&logo=Docker&logoColor=white)
-
-- 🔠 Language
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 
 - 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
@@ -51,10 +54,6 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunLSH)](https://github.com/nunLSH/github-readme-stats)
-
 
 ## 👩🏻‍💻 Projects
 - 업데이트 예정
