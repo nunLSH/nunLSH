@@ -1,4 +1,5 @@
 ## Hi there 👋
+(작성중)
 
 ## 📞 Contacts
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)
@@ -15,8 +16,6 @@
 - 정보처리기사 (25.09)
 
 ## 🛠️ Skills
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunLSH)](https://github.com/nunLSH/github-readme-stats)
-
 🔠 Language
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white)
@@ -56,4 +55,5 @@
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)
 
 ## 👩🏻‍💻 Projects
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunLSH)](https://github.com/nunLSH/github-readme-stats)
 - 업데이트 예정
