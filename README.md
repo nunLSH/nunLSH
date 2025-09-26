@@ -46,7 +46,7 @@
 - 🎨 Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
-- 🛠️ Tools & Collaboration
+- 🤝 Collaboration
 ![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)
