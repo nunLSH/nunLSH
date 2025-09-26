@@ -1,5 +1,7 @@
 ## Hi there 👋
-(작성중)
+(리드미 작성중)
+
+<br/>
 
 ## 📞 Contacts
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)
