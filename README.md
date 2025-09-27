@@ -11,7 +11,7 @@
 ## 🖥️ Experience
 - 📚 프로그래머스 백엔드 데브코스 5기 과정 수료 (2025.02 - 2025.08)
 - 🏢 (주)민트기술, ICT 학점연계 프로젝트 인턴십, 웹 풀스택 개발 (2024.09 ~ 2024.12)
-- 🏆 [제 3회 Uni-DTHON](https://aiconnect.kr/competition/detail/236) 해커톤 은상(3위)
+- 🏆 [제 3회 Uni-DTHON](https://aiconnect.kr/competition/detail/236) 해커톤 은상(3위) (2023.11)
 
 <br/>
 
