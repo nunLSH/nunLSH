@@ -22,21 +22,22 @@
 
 ## 👩🏻‍💻 Projects
 
+<details>
+<summary>
+
 ### 🗺️ [Mapick (SOOBAK)](https://github.com/SOOBAK-mapick-ver2/SOOBAK_BE)
-> 장소 기반 경험과 관심사를 기록하고 공유하는 실시간 협업 커스텀 지도 서비스
-</br>
 
-📅 **기간**  
-2025.06 – (ing)
-</br>
+> 장소 기반 경험과 관심사를 기록하고 공유하는 실시간 협업 커스텀 지도 서비스  
+📅 2025.06 – 진행 중 | 👥 BE 5명 / FE 4명
 
-👥 **팀 구성**  
-BE 5명 / FE 4명
-</br>
+</summary>
+
+<br/>
 
 🙋🏻‍♀️ **역할**  
 PO · Backend Developer
-</br>
+
+<br/>
 
 ✅ **주요 기여**
 - 프로젝트 일정 관리 및 GitHub Issue 기반 협업 프로세스 운영
@@ -45,7 +46,8 @@ PO · Backend Developer
 - API Mock Server 구축을 통한 프론트엔드 병렬 개발 환경 구성
 - 공통 Response Wrapper → DTO 기반 응답 구조 리팩토링
 - Blue-Green 배포 적용 시도 및 운영 환경 이슈 분석
-</br>
+
+<br/>
 
 🛠️ **기술 스택**
 
@@ -61,23 +63,26 @@ PO · Backend Developer
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS_EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 
+</details>
+
 <br/>
 
+<details>
+<summary>
+
 ### 🎮 [DevQuest](https://github.com/prgrms-be-devcourse/NBE5-6-3-Team04)
-> 목표 기업별 준비 과정과 성취도를 관리할 수 있는 개발자 취업 준비 관리 서비스 (🏆 최우수상)
-</br>
 
-📅 **기간**  
-2025.04 – 2025.06
-</br>
+> 목표 기업별 준비 과정과 성취도를 관리할 수 있는 개발자 취업 준비 관리 서비스 🏆  
+📅 2025.04 – 2025.06 | 👥 BE 5명
 
-👥 **팀 구성**  
-BE 5명
-</br>
+</summary>
+
+<br/>
 
 🙋🏻‍♀️ **역할**  
-FullStack Developer
-</br>
+PO · FullStack Developer
+
+<br/>
 
 ✅ **주요 기여**
 - 프로젝트 일정 관리 및 GitHub Issue 기반 협업 프로세스 운영
@@ -85,7 +90,8 @@ FullStack Developer
 - 회원가입 완료 시 이메일 발송 서버 구현 (Kotlin + Coroutine)
 - 관리자 대시보드용 회원 관리 API 개발
 - 인덱스 / 회원가입 / 로그인 페이지 및 일부 UI 구현
-</br>
+
+<br/>
 
 🛠️ **기술 스택**
 
@@ -99,6 +105,7 @@ FullStack Developer
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+</details>
 <br/>
 
 ## 🛠️ Skills
