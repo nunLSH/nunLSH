@@ -21,10 +21,10 @@
 <br/>
 
 ## 👩🏻‍💻 Projects
-
-### 🗺️ [Mapick (SOOBAK)](https://github.com/SOOBAK-mapick-ver2/SOOBAK_BE)
 <details>
 <summary>
+
+### 🗺️ Mapick (SOOBAK) [리포지토리](https://github.com/SOOBAK-mapick-ver2/SOOBAK_BE)
 
 > 장소 기반 경험과 관심사를 기록하고 공유하는 실시간 협업 커스텀 지도 서비스
 </br>
@@ -70,7 +70,7 @@ PO · Backend Developer
 <details>
 <summary>
 
-### 🎮 [DevQuest](https://github.com/prgrms-be-devcourse/NBE5-6-3-Team04)
+### 🎮 DevQuest [리포지토리](https://github.com/prgrms-be-devcourse/NBE5-6-3-Team04)
 
 > 목표 기업별 준비 과정과 성취도를 관리할 수 있는 개발자 취업 준비 관리 서비스 🏆  
 </br>
