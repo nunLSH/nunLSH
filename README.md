@@ -24,12 +24,12 @@
 <details>
 <summary>
 
-### 🗺️ Mapick (SOOBAK) [리포지토리](https://github.com/SOOBAK-mapick-ver2/SOOBAK_BE)
+### 🗺️ Mapick (SOOBAK) : [GitHub 레포지토리](https://github.com/SOOBAK-mapick-ver2/SOOBAK_BE)
 
-> 장소 기반 경험과 관심사를 기록하고 공유하는 실시간 협업 커스텀 지도 서비스
-> 
-📅 2025.06 – 진행 중 </br>
-👥 BE 5명 / FE 4명
+> 장소 기반 경험과 관심사를 나만의 지도로 기록하고 공유하는 커스텀 지도 서비스
+> </br></p>
+> 📅 &nbsp; 2025.06 – 진행 중 </br></p>
+> 👥 &nbsp; BE 5명 / FE 4명
 
 </summary>
 
@@ -43,7 +43,7 @@
 ✅ **주요 기여**
 - 프로젝트 일정 관리 및 GitHub Issue 기반 협업 프로세스 운영
 - 협업 지도 · 카테고리 · 마커 · 댓글 · 대시보드 API 설계 및 구현
-- 업적 시스템(로드맵 / 퀘스트 / 댓글) 로직 개발
+- 업적 시스템 (로드맵 / 퀘스트 / 댓글) 로직 개발
 - API Mock Server 구축을 통한 프론트엔드 병렬 개발 환경 구성
 - 공통 Response Wrapper → DTO 기반 응답 구조 리팩토링
 - Blue-Green 배포 적용 시도 및 운영 환경 이슈 분석
@@ -71,19 +71,19 @@
 <details>
 <summary>
 
-### 🎮 DevQuest [리포지토리](https://github.com/prgrms-be-devcourse/NBE5-6-3-Team04)
+### 🎮 DevQuest : [GitHub 레포지토리](https://github.com/prgrms-be-devcourse/NBE5-6-3-Team04)
 
 > 목표 기업별 준비 과정과 성취도를 관리할 수 있는 개발자 취업 준비 관리 서비스 (🏆 최우수상)
-> 
-📅 2025.04 – 2025.06 </br>
-👥 BE 5명
+> </br></p>
+> 📅 &nbsp; 2025.04 – 2025.06 </br></p>
+> 👥 &nbsp; BE 5명
 
 </summary>
 
 <br/>
 
 🙋🏻‍♀️ **역할**  
-- PO · FullStack Developer
+- FullStack Developer
 
 <br/>
 
