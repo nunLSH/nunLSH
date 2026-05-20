@@ -27,8 +27,7 @@
 ### 🗺️ Mapick (SOOBAK) [리포지토리](https://github.com/SOOBAK-mapick-ver2/SOOBAK_BE)
 
 > 장소 기반 경험과 관심사를 기록하고 공유하는 실시간 협업 커스텀 지도 서비스
-
-📅 2025.06 – 진행 중
+📅 2025.06 – 진행 중 </br>
 👥 BE 5명 / FE 4명
 
 </summary>
@@ -74,8 +73,7 @@
 ### 🎮 DevQuest [리포지토리](https://github.com/prgrms-be-devcourse/NBE5-6-3-Team04)
 
 > 목표 기업별 준비 과정과 성취도를 관리할 수 있는 개발자 취업 준비 관리 서비스 🏆  
-
-📅 2025.04 – 2025.06
+📅 2025.04 – 2025.06 </br>
 👥 BE 5명
 
 </summary>
