@@ -9,7 +9,7 @@
 
 ## 📞 Contacts
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)
-[![Tistory](https://shields.io](https://forestlight.tistory.com/)
+![Tistory](https://forestlight.tistory.com/)
 
 <br/>
 
