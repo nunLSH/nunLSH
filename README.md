@@ -8,8 +8,9 @@
 <br/>
 
 ## 📞 Contacts
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:forestlight749@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-devmee.tistory.com-20C997?style=for-the-badge&logo=tistory&logoColor=white)](https://forestlight.tistory.com/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:forestlight749@gmail.com)</br>
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://forestlight.tistory.com/)
 
 <br/>
 
