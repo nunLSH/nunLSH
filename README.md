@@ -63,8 +63,6 @@ PO · Backend Developer
 
 <br/>
 
----
-
 ### 🎮 [DevQuest](https://github.com/prgrms-be-devcourse/NBE5-6-3-Team04)
 > 목표 기업별 준비 과정과 성취도를 관리할 수 있는 개발자 취업 준비 관리 서비스 (🏆 최우수상)
 </br>
