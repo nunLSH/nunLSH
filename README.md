@@ -21,7 +21,75 @@
 <br/>
 
 ## 👩🏻‍💻 Projects
-- 업데이트 예정
+
+### 🗺️ [Mapick (SOOBAK)](https://github.com/SOOBAK-mapick-ver2/SOOBAK_BE)
+> 장소 기반 경험과 관심사를 기록하고 공유하는 실시간 협업 커스텀 지도 서비스
+
+📅 **기간**  
+2025.06 – (ing)
+
+👥 **팀 구성**  
+BE 5명 / FE 4명
+
+🙋🏻‍♀️ **역할**  
+PO · Backend Developer
+
+✨ **주요 기여**
+- 프로젝트 일정 관리 및 GitHub Issue 기반 협업 프로세스 운영
+- 협업 지도 · 카테고리 · 마커 · 댓글 · 대시보드 API 설계 및 구현
+- 업적 시스템(로드맵 / 퀘스트 / 댓글) 로직 개발
+- API Mock Server 구축을 통한 프론트엔드 병렬 개발 환경 구성
+- 공통 Response Wrapper → DTO 기반 응답 구조 리팩토링
+- Blue-Green 배포 적용 시도 및 운영 환경 이슈 분석
+
+🛠️ **기술 스택**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS_EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+
+<br/>
+
+---
+
+### 🎮 [DevQuest](https://github.com/prgrms-be-devcourse/NBE5-6-3-Team04)
+> 목표 기업별 준비 과정과 성취도를 관리할 수 있는 개발자 취업 준비 관리 서비스 (🏆 최우수상)
+
+📅 **기간**  
+2025.04 – 2025.06
+
+👥 **팀 구성**  
+BE 5명
+
+🙋🏻‍♀️ **역할**  
+FullStack Developer
+
+✨ **주요 기여**
+- 프로젝트 일정 관리 및 GitHub Issue 기반 협업 프로세스 운영
+- Session 기반 인증 구조 → JWT 기반 인증 구조 리팩토링
+- 회원가입 완료 시 이메일 발송 서버 구현 (Kotlin + Coroutine)
+- 관리자 대시보드용 회원 관리 API 개발
+- 인덱스 / 회원가입 / 로그인 페이지 및 일부 UI 구현
+
+🛠️ **기술 스택**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 <br/>
 
