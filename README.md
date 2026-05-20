@@ -1,9 +1,9 @@
 ## Hi there 👋
 끊임없이 성장하며, 사용자에게 가치를 제공하는 개발자 임서현입니다.
 
-- 편리하고 유지보수 가능한 서비스를 개발하고 싶습니다
-- 새로운 기술과 환경에 대한 도전을 환영합니다
-- 진정한 개발자가 되기 위한 꾸준히 학습합니다
+- 안정적이고 유지보수 가능한 서비스를 개발하고 싶습니다
+- 새로운 기술과 환경에 대한 도전을 즐깁니다
+- 학습과 기록을 통해 꾸준히 성장합니다
 
 <br/>
 
@@ -111,6 +111,13 @@
 </details>
 <br/>
 
+## 🪪 Credentials
+- SQLD | 2025.04
+- ADsP | 2025.09
+- 정보처리기사 | 2025.09
+
+<br/>
+
 ## 🛠️ Skills
 
 ### ☕ Backend
@@ -140,12 +147,5 @@
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
-<br/>
-
-## 🪪 Credentials
-- SQLD (25.04)
-- ADsP (25.09)
-- 정보처리기사 (25.09)
 
 
